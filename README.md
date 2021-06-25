@@ -7,13 +7,13 @@ Whether you’re currently an experienced software project manager, an ambitious
 ## Overview of Software Project Management
 Project management refers to the process of applying skills, knowledge, techniques, and tools to to fulfil the requirements of the project. It usually broke down into project management phases, including project initiation, project planning, project execution, project monitoring, and project closure.
 
-Actually, it refers to the branch of project management that involves planning, scheduling, allocating resources, executing, tracking, and delivering specific software and other IT-related projects within the minimum possible consumption of resources, time, and money.
+Actually, it refers to the branch of [project management best practices](https://www.designveloper.com/blog/software-project-management-best-practices/) that involve planning, scheduling, allocating resources, executing, tracking, and delivering specific software and other IT-related projects within the minimum possible consumption of resources, time, and money.
 
 ## Building a software project management plan
 As shown above, planning is one of the five project management steps. It needs a project plan to give direction for the whole team in terms of product scope, resource and material required, quality outputs, potential risks management, costs throughout the project.
 
 ### 1. Performing requirement gathering
-The first step in building a software project management plan is requirement gathering. It is about the exploratory research and documentation of the customers’ project requirements to provide them with what they want. The requirements gathering process can conduct at the very beginning of the software project.
+The first step in building a software [project management plan](https://www.designveloper.com/blog/software-project-management-plan/) is requirement gathering. It is about the exploratory research and documentation of the customers’ project requirements to provide them with what they want. The requirements gathering process can conduct at the very beginning of the software project.
 
 Indeed, there are multiple ways to gather requirements. Software project managers can utilise methods such as conducting a pre-workshop survey, adopting the nominal group technique, organising brainstorming sessions, or having one-on-one talks with those involved.
 
@@ -36,6 +36,6 @@ The software project manager is also responsible for creating the time estimate 
 Creating a correct time estimate of how long the project will last is a time-consuming and challenging task. However, a work breakdown structure (WBS) and a project network diagram (PND). It helps to detail what should be conducted by both the project manager and the project team for the project completion.
 
 ### 6. Estimating software project cost
-A critical phase in software project management planning is recognising. And understanding how much a project will cost for you to commit the funds. An accurate budget estimate should include the following: product and project scope, time frame, assumptions, constraints, variance range. 
+A critical phase in software [project management methodology](https://www.designveloper.com/blog/project-management-methodology/) and planning is recognising. And understanding how much a project will cost for you to commit the funds. An accurate budget estimate should include the following: product and project scope, time frame, assumptions, constraints, variance range. 
 
 Cost estimation helps the project manager explain all real costs to a stakeholder about a correct ballpark figure for the project. Remember that poor cost estimates win little trust from the stakeholders. Some companies don’t have specific policy guidance on cost estimates. While others will offer some guidelines, to which you should conform.
